@@ -1,6 +1,6 @@
 # Hey there, I'm Eslam Nazer 👋
 
-### Backend Developer | PHP & Laravel | Modular Architecture
+### Backend Developer | PHP & Laravel | TypeScript & Nestjs | Modular Architecture
 
 I'm a passionate **Backend Developer** specializing in **PHP and Laravel**, focused on building maintainable, scalable, and well-structured web applications.
 
