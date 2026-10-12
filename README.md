@@ -129,12 +129,6 @@ These experiences have helped shape my approach to building maintainable and rel
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Eslam-Nazer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4)
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing **Laravel, backend engineering, modular architecture, and open-source development**.
